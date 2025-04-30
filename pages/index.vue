@@ -10,7 +10,7 @@
 				</p>
 			</div>
 			<div
-				ref="chatBox"
+				ref="chatBox
 				class="flex-1 overflow-y-auto space-y-3 mb-4 pt-3"
 			>
 				<div
